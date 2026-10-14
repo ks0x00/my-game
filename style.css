@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  background-color: #1a1a24;
+  color: #f0f0f5;
+  font-family: "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 80px 40px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 0 0 16px;
+}
+
+#intro {
+  font-size: 1.25rem;
+  margin: 0 0 56px;
+  color: #c8c8d4;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin: 0 0 16px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 8px 0;
+}
